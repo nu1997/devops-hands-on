@@ -1,5 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,terraform
+### Big files & credentials ###
+*.pdf
 
 ### Linux ###
 *~
