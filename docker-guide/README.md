@@ -5,7 +5,8 @@
 - AWS EC2 (Ubuntu) 인스턴스
 - key pair, public IP 확인 후 접속
 
-## 1. Docker 설치
+## 1. Docker 설치exit
+
 ```
 $ curl -s https://get.docker.com/ | sudo sh
 $ sudo usermod -aG docker ubuntu
